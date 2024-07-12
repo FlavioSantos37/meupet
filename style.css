@@ -1,0 +1,86 @@
+body{ 
+	
+ margin: 0px;
+	
+}
+
+section{
+	width:100%;
+    
+	
+	
+	
+	
+}
+#banner img{
+	width:100%;
+	height:500px;
+	
+	
+}
+
+#submenu{
+	width:100%;
+	height:100px;
+	
+	
+	margin-top:5px;
+	border-radius:5px;
+	text-align: center;
+	
+}
+
+
+
+
+#seres img{
+	width:99%;
+	height:85px;
+	border-radius:15px;
+	padding-top:7px;
+  
+		
+}
+#seres{
+    width:19%;
+    height: 100px;
+    display:inline-block;
+    background:black;
+    border-radius:15px;
+    overflow: hidden;
+    
+    		
+    		
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin-top: -10px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+
